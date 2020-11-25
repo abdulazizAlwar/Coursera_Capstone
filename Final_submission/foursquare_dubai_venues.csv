@@ -1,0 +1,100 @@
+venue_id,venue_name,categories,city,state,neighborhood,address,venue.location.lat,venue.location.lng,country
+508e4b2ae4b01ceeb4ae3d37,Arabian Tea House Cafe ,Tea Room,Dubai,Dubai,Al Souk Al Kabir,Al Fahidi St,25.26339894786175,55.29969492240867,AE
+4b7d809af964a520c2c22fe3,Special Ostadi Kabab ,Persian Restaurant,Dubai,Dubai,Al Hamriya,At Mankhool Rd,25.259961,55.29894,AE
+5866b18245c3ed1e7db9931d,Nikki Beach Club,Beach Bar,Dubai,Dubai,,Pearl Jumeirah,25.248305850634996,55.25693893432617,AE
+556291a3498e3237b9ddf800,Fitness Time ,Gym,Dubai,Dubai,,,25.28907669394844,55.34791291248384,AE
+5a057657065ef54fbdec2747,The Coffee Lab - Mina Rashid ,Coffee Shop,Dubai,Dubai,,Port Rashid,25.258734515548394,55.2774991878139,AE
+59cd24546c08d17226e0b639,Al Seef,Plaza,Dubai,Dubai,,Al Seef,25.2616508592383,55.30844975772289,AE
+4b0587f3f964a520e5a822e3,Dubai Creek Golf & Yacht Club,Golf Course,Dubai,Dubai,,Sheikh Rashid Road,25.24168761994129,55.33341407775879,AE
+56b99e49498ee1345e9bca89,Nikki Beach Resort & Spa,Resort,Dubai,Dubai,,Pearl Jumeirah,25.247102562775485,55.25599479675293,AE
+59d716e49b04736749cf02db,La Mer ,Plaza,Dubai,Dubai,Jumeirah 1,Jumeirah Beach Rd,25.22943331393332,55.25927847496393,AE
+52cc72e2498e3408632fb82c,Park Hyatt Dubai ,Hotel,Dubai,Dubai,,Po Box 2822,25.243705648129534,55.3326611271734,AE
+56880bf9498e685a063db33e,PLAY Restaurant & Lounge,Steakhouse,Dubai,Dubai,,H Hotel,25.230568575064222,55.286991262604104,AE
+5ad9d0eb4c954c0cf9c7b0d5,La Mer Beach South,Beach,Dubai,Dubai,,,25.226614,55.25572,AE
+4b0587ecf964a520eca622e3,Raffles Dubai ,Hotel,Dubai,Dubai,,"Sheikh Rashid Road, Wafi",25.227827,55.320547,AE
+5a324db78173cb2382339a5d,SALT,Burger Joint,Dubai,Dubai,,Jumeirah Beach Rd,25.232979757047957,55.261125027227195,AE
+5d9929c32fc9fc000808617c,Amazonico Dubai,Brazilian Restaurant,Dubai,Dubai,,Al Boursa Street DIFC,25.215337,55.282497,AE
+5470fa43498e3d11e1850e22,Jumeirah Emirates Towers Hotel,Hotel,Dubai,Dubai,,"Emirates Towers, Sheikh Zayed Road",25.217705300738725,55.28213647542921,AE
+4ccea36caa25a35d2599210f,La Petite Maison,French Restaurant,Dubai,Dubai,,Gate Village 08,25.213174600485242,55.28247389929357,AE
+56e0062e498ef34928aeca4b,Four Seasons Hotel Dubai International Financial Centre,Hotel,Dubai,Dubai,,Happiness St,25.212701,55.282341,AE
+5a53911f002f4c472005a343,Starbucks Reserve,Coffee Shop,Dubai,Dubai,,La Mer,25.230714066903797,55.25922283745755,AE
+4b75a0d3f964a5202c182ee3,Zuma,Japanese Restaurant,Dubai,Dubai,,"Gate Village 06, DIFC",25.213993038238613,55.28332255468385,AE
+4e7a125dc65b609853a0cd80,Al Mamzar Beach ,Beach,Dubai,Dubai,,Al Mamzar Road,25.306597209866855,55.34822723538097,AE
+5ad18b76cf72a02ec70755d9,Mandarin Oriental Jumairah Beach,Resort,Dubai,Dubai,,Jumairah 1,25.216960147110875,55.251149640457236,AE
+552837d7498eaba11d530f3b,La Cantine du Faubourg,French Restaurant,Dubai,Dubai,,Emirates Towers,25.217305051345583,55.28258915716694,AE
+59f9ebccd69ed0564b0e5f3e,Society Cafe & Lounge,Café,Dubai,Dubai,,,25.232359676256685,55.264180233239934,AE
+597da5d92b9844430fdeb4d5,Parlour Boutique,French Restaurant,Dubai,Dubai,,Trade Centre Roundabout,25.2218729247067,55.28572237546888,AE
+5dd2c5b00e96d200080cffa7,​Shanghai Me,Restaurant,Dubai,Dubai,,"​Gate Village 11 , towards DIFC Parking, DIFC",25.21465748090661,55.2828722976227,AE
+58b67a8b2868041f153247d2,Address Boulevard,Hotel,Dubai,Dubai,,Sheikh Mohammed Bin Rashid Boulevard Rd,25.201248594205904,55.27599235621302,AE
+4cb59c4064998cfa65da0ea2,Palazzo Versace ,Resort,Dubai,Dubai,,"Culture Village, Next to the Business Bay Bridge",25.22721001211293,55.341964272898416,AE
+54f2b804498eb4b23a520538,Dubai Frame ,Monument / Landmark,Dubai,Dubai,,Zabeel Park,25.23432878653293,55.3011281595876,AE
+53d0ace4498e704f943ddb04,Sheraton Grand Hotel ,Hotel,Dubai,Dubai,World Trade Centre (WTC),3 Sheikh Zayed Road,25.2295309,55.2866728,AE
+56e8ea96498e9d491ac1a731,Rove Downtown Dubai,Hotel,Dubai,Dubai,,Financial Centre Road,25.20303029856088,55.27938439922631,AE
+5268acfb498e429bde00775b,City Walk ,Shopping Plaza,Dubai,Dubai,Al Wasl,Al Wasl Rd,25.207283979694353,55.26227901399227,AE
+570929e6498ea5a8451962bd,VOX Rooftop Cinema,Movie Theater,Dubai,Dubai,,Galleria Mall,25.20735654558348,55.25454485942061,AE
+589dfabb84677a520fe72337,The Roxy Cinemas,Movie Theater,Dubai,Dubai,,Al Wasl,25.20718345820237,55.263502049756184,AE
+4cdbbcc599026dcbeea90e81,Fashion Avenue,Boutique,Dubai,Dubai,,The Dubai Mall,25.198198373774343,55.275885288223414,AE
+5a4b5ed128122f2048485e13,DailyDose Cafe,Coffee Shop,Dubai,Dubai,,168 Jumeira Rd,25.2183546968319,55.25293932973527,AE
+56cea6ebcd109631feed7d88,Luna Sky Bar,Cocktail Bar,Dubai,Dubai,,Four Seasons Hotel DIFC,25.212649,55.282493,AE
+4b0587f3f964a520cfa822e3,The Dubai Mall ,Shopping Mall,Dubai,Dubai,,Mohammed bin Rashid Blvd.,25.197388603252538,55.27886867523193,AE
+4b07ca94f964a5200b0023e3,Books Kinokuniya ,Bookstore,Dubai,Dubai,,The Dubai Mall,25.198449516340627,55.27797517955667,AE
+4b0587ebf964a520dba622e3,Grand Hyatt Dubai ,Hotel,Dubai,Dubai,,Riyadh Street Sheikh Rashid Road,25.228319229851785,55.328161305344345,AE
+5a0037fe59c4232cc88e1507,Address Boulevard Lobby Lounge,Coffee Shop,Dubai,Dubai,,Financial Center St,25.2014011793038,55.276044011571685,AE
+4dc66cea52b1e8f9f7ecbb36,Van Cleef & Arpels,Jewelry Store,Dubai,Dubai,,"Dubaï Mall, Ground Floor, Financial Centre Road",25.1983479,55.2801003,AE
+4f6eecf6e4b0a235d8093820,Roberto's ,Italian Restaurant,Dubai,Dubai,,DIFC Gate Village 1,25.21238520087236,55.28204077919322,AE
+4bab5e6ef964a5200ca43ae3,InterContinental Dubai Festival City,Hotel,Dubai,Dubai,Ras Al Khor,Cresent Dr,25.22332002960166,55.34976720734028,AE
+4d214b4e16cfb60ccb646061,"The Ritz-Carlton, Dubai International Financial Centre",Hotel,Dubai,Dubai,Zabeel 2,Gate Village,25.213067,55.279473,AE
+508d0ba7e4b0ba329155c057,Level Shoes ,Shoe Store,Dubai,Dubai,,Sheikh Mohammed Bin Rashid Blvd,25.196075785983904,55.27909855093776,AE
+4bc5cb805935c9b6aa5ba6d2,Address Downtown ,Hotel,Dubai,Dubai,,Emaar Blvd,25.194305897732292,55.27906993092919,AE
+4c1113a83ce120a1a014091c,Cartier ,Jewelry Store,Dubai,Dubai,,"Financial Center Road - Downtown Dubai, Downtown Dubai",25.1985178,55.2800005,AE
+57026b3b498ee4d963e8f8c1,Dubai Opera ,Opera House,Dubai,Dubai,Downtown Dubai,Downtown Dubai,25.19563145175193,55.27170181274414,AE
+5bdb17e92b274a002c817d4c,Gaia,Greek Restaurant,Dubai,Dubai,,"Building 4, Gate Village",25.214189118617305,55.28258203805139,AE
+4b94f4f8f964a5204b8934e3,Burj Khalifa ,Monument / Landmark,Dubai,Dubai,,1 Mohammed bin Rashid Blvd,25.197233275964653,55.27414798736572,AE
+4bd9b02de914a593816957fa,The Dubai Fountain ,Fountain,Dubai,Dubai,Downtown Dubai,D 55,25.195467341424397,55.27785543465817,AE
+4bdc6a09fed22d7f340c58c9,Armani Hotel Dubai ,Hotel,Dubai,Dubai,Downtown Dubai,Concourse Level to Level 8 & Levels 38&39,25.197378895302858,55.27420163154602,AE
+56377e3b498e02e4f28e1292,Stomping Grounds - Specialty Coffee HUB,Café,Dubai,Dubai,,"Villa 98, 12D Street",25.2231549497475,55.25823259782172,AE
+4cefc9225de16ea8fa59c296,Address Dubai Mall ,Hotel,Dubai,Dubai,Downtown Dubai,The Dubai Mall,25.199543748925933,55.27764558792114,AE
+4b588f79f964a520135e28e3,Hermes إرميز,Boutique,Dubai,Dubai,,"Dubai Mall, Ground Floor, Fashion Section",25.19830711090231,55.278827030305756,AE
+4b23d11af964a520575a24e3,Reel Cinemas ,Multiplex,Dubai,Dubai,,The Dubai Mall,25.196280234164316,55.2806395719699,AE
+5a12d3fee179100ce19c1778,BVLGARI Resort Dubai,Hotel,Dubai,Dubai,Jumeirah 2,Jumeirah Bay Island,25.210697,55.236428,AE
+519080d9498ef8b46e92e052,Four Seasons Resort Dubai at Jumeirah Beach ,Resort,Dubai,Dubai,Jumeirah 2,Jumeirah Beach Rd,25.202167,55.240171,AE
+5a909651c62b493a336d2326,MINA Brasserie,Diner,Dubai,Dubai,,"Four Seasons Hotel DIFC, Podium level, Building 9, Gate Village, DIFC, Dubai United Arab Emirates",25.212688,55.282708,AE
+4ef993dd9adf7bbf8a73a45d,Platinum Movie Suites ,Multiplex,Dubai,Dubai,وسط مدينة دبي,The Dubai Mall,25.19608255031451,55.28131394078301,AE
+57c72b5f498ebea6aae0576a,Carnival by Trèsind,Indian Restaurant,Dubai,Dubai,,Burj Daman,25.211009740298298,55.282113253111255,AE
+4b5aae90f964a520a3d028e3,Bloomingdale's ,Department Store,Dubai,Dubai,,The Dubai Mall,25.199427113792833,55.27859912421935,AE
+4ca1200446978cfa5485b97f,Emirates First & Business Check-in,Airport Service,Dubai,Dubai,,Terminal 3,25.244769052179667,55.3612658158339,AE
+4fa42f48e4b0e4baa1bf71e0,The Cheesecake Factory,American Restaurant,Dubai,Dubai,,Dubai Mall-near Aquarium,25.1970929,55.2791086,AE
+58306672dfa6ff0f03988537,La Ville Hotel & Suites,Hotel,Dubai,Dubai,,Al Multaqa Street,25.20827849364073,55.260591298333566,AE
+5471b56b498eff738d9539a9,Mercury Lounge,Lounge,Dubai,Dubai,,Four Seasons Resort,25.202239737346538,55.239598794782616,AE
+5868c16245c3ed5c6a26a250,3 Fils Restaurant,Seafood Restaurant,Dubai,Dubai,,Jumeirah 1,25.210280708607996,55.243482655861776,AE
+54cabc52498ea0f008aed949,Box Park ,Plaza,Dubai,Dubai,,Al Wasl,25.200010157411757,55.24920908548897,AE
+537f2621498efd6e06f9acae,Slider Station ,American Restaurant,Dubai,Dubai,,Galleria Mall,25.208300617509554,55.255000818522,AE
+5985eb2a4940bc7d4edb97c9,Starbucks,Coffee Shop,Dubai,Dubai,,,25.215889738725803,55.25085031211942,AE
+5135ada3e4b0caef36302dd9,VOX Cinemas ڤوكس سينما,Multiplex,Dubai,Dubai,,Mercato Mall,25.216371626899946,55.25286425138465,AE
+4b7d2569f964a52033b02fe3,Louis Vuitton لوي فويتون,Boutique,Dubai,Dubai,,The Dubai Mall,25.1976624,55.2772556,AE
+582c713b68a4a33532694959,% ARABICA,Coffee Shop,Dubai,Dubai,Al Wasl,Citywalk,25.204485282218474,55.263050278530415,AE
+56345c6b498e3714db27db29,Culinary Boutique,Mediterranean Restaurant,Dubai,Dubai,,Villa 56,25.2205814523125,55.255082324201744,AE
+4c8be9c3ed3ab60cfed06221,Armani Lounge,Lounge,Dubai,Dubai,,Armani Hotel,25.19687874429888,55.27482736516576,AE
+532881e6498e70cf2b173f71,P. F. Chang's ,Chinese Restaurant,Dubai,Dubai,,Dubai Mall-Ground Floor-near Waterfall,25.1956356,55.2784321,AE
+5556f05b498e52b9d8f6be4d,The Espresso Lab,Coffee Shop,Dubai,Dubai,Dubai Design District,"R08, Building 7, Dubai Design District",25.188699678686433,55.29759854078293,AE
+50191f36e4b0e4c9c6d3d1f0,The Sunken Garden,Hookah Bar,Dubai,Dubai,,"Ritz Carlton Hotel, DIFC",25.212092615824847,55.2800388413719,AE
+5be083175b971100255cea23,Home Bakery,Bakery,Dubai,Dubai,,Fashion Avenue,25.197224196036874,55.276614866903095,AE
+5482d623498e688230ec1f3a,Coya,Peruvian Restaurant,Dubai,Dubai,Jumeirah 2,Jumeirah Beach Rd,25.202581297530365,55.240429748444456,AE
+4fd229b3e4b0b5fdabf2cbbc,Talise Fitness,Gym / Fitness Center,Dubai,Dubai,,Emirates Towers,25.21741990577932,55.28381288154272,AE
+4ddfdfe58877e0877e64fa29,Dior,Boutique,Dubai,Dubai,,The Dubai Mall,25.196926884739376,55.27703047884604,AE
+534f9404498ed382ef44561e,Sofitel Dubai Downtown,Hotel,Dubai,Dubai,,"Sheikh Zayed Road, Downtown Dubai",25.199973538725768,55.2691589583359,AE
+4c0505d2f56c2d7faffb1e66,Fendi,Leather Goods Store,Dubai,Dubai,,"Ground Floor, The Dubai Mall, Doha Street",25.197636,55.27882,AE
+4b6c03bcf964a520b61f2ce3,Magnolia Bakery ,Cupcake Shop,Dubai,Dubai,,Sheikh Mohammed Bin Rashid Blvd,25.196576494605328,55.27663161523775,AE
+5823a500a72a0b68171392f2,Dubai Water Canal ,Canal,Dubai,Dubai,,,25.186445,55.254158,AE
+5a8c15a8bed48320672b0da7,Home Bakery Kitchen,Bakery,Dubai,Dubai,,Dubai Design District,25.189246343330282,55.29772116597527,AE
+5bdb6ca25b971100252297cc,Mövenpick Hotel Apartments - Downtown,Hotel,Dubai,Dubai,,Al Ohood Street,25.194254520788398,55.28426441312675,AE
+58a2a9549465dd7e992b99cf,Apple Dubai Mall ,Electronics Store,Dubai,Dubai,Downtown Dubai,The Dubai Mall,25.1958237,55.277656,AE
+4f5c600be4b0c4b689a73154,JW Marriott Marquis Hotel Dubai,Hotel,Dubai,Dubai,,"Sheikh Zayed Road, Business Bay",25.18540054453362,55.25808764418025,AE
+5627c635498e36e02bb8f3cc,Wakame,Asian Restaurant,Dubai,Dubai,,"Sofitel Dubai Downtown, Level 3",25.199890243882432,55.26856777230349,AE
+56be258438fad966c5dfcdc5,Cipriani,Italian Restaurant,Dubai,Dubai,,DIFC Gate Village 10,25.213707100329724,55.28273846559119,AE
+5bb7a2ca6dcf04002c7407b0,Burj Vista,Residential Building (Apartment / Condo),Dubai,Dubai,,1 Sheikh Mohammed Bin Rashid Boulevard,25.19864,55.271575,AE
+4b0587ebf964a520c7a622e3,"Renaissance Downtown Hotel, Dubai",Hotel,Dubai,Dubai,,Marasi Drive,25.1858216,55.2735645,AE
+5a5b735a42d8c2565f3efd0c,Scalini,Italian Restaurant,Dubai,Dubai,,Four seasons Jumeirah,25.202482872887618,55.240502597747884,AE
+4befb451d4f70f47c321390f,Manzil Downtown Dubai,Hotel,Dubai,Dubai,,Mohammed bin Rashid Boulevard,25.191060313459218,55.277648776661565,AE
+5c0180ddc876c8002c82e0ec,Saddle Dubai,Café,Dubai,Dubai,,Al Wasl,25.20472150139918,55.25257321210708,AE
+5e052c61991ce80007240019,% Arabica The Fountain,Coffee Shop,Dubai,Dubai,,Next to the Apple Store,25.19631101611239,55.27746856212615,AE
